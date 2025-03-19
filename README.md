@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Byte!
-- 👀 I’m interested in animation, coding, and 
+- 👀 I’m interested in animation and coding!
 - 🌱 I’m currently learning how to code Unity games.
 - 💞️ I’m looking to collaborate on nothing at this moment.
 - 📫 How to reach me: you can't right now, unless you comment on one of my YouTube videos.
